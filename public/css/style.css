@@ -1,0 +1,119 @@
+.row,.container-fluid,.col-md-2
+{
+	margin: 0px;
+	padding: 0px;
+}
+
+.sidebar
+{
+	margin: 0px;
+	background-color: #cccc;
+	height:800px;	
+}
+
+.sidebar h3
+{
+	margin: 0px;
+	color: indigo;
+	font-weight: bold;
+	padding: 5px;
+	text-align: center;
+}
+
+
+.sidebar nav ul
+{
+	list-style: none;
+	margin:0px;
+	padding: 0px;
+}
+
+.sidebar ul li 
+{
+	width: 100%;
+	padding: 10px 5px;
+	background-color: #ffffff;
+	border-bottom : 1px dashed #1e1e1e;
+	transition: 0.5s ease;
+}
+
+.sidebar ul li:hover
+{
+	background-color: #446699;
+	color:#ccc;
+	transition: 0.5s ease;
+}
+
+.sidebar ul li:hover a
+{
+	color: #ffffff;
+	font-weight: bold;
+	size: 15px;
+}
+.sidebar ul li a 
+{
+		color: #1e1e1e;
+		text-decoration: none;
+		outline: none;
+}
+
+
+.setting-menu .menu-item
+{
+	padding: 20px;
+	height: 100px;
+	color:#ffffff;
+/*	border: 2px dashed #ffffff;
+*/}
+
+
+.setting-tabs
+{
+	padding: 20px;
+}
+.setting-tabs ul li a 
+{
+	color: #ffffff;
+}
+
+.addCategoryFrom
+{
+	width: 500px;
+	margin: 0px auto;
+	padding: 20px;
+}
+
+.addCategoryFrom .form-title
+{
+	font-size: 16px;
+	font-weight: bold;
+}
+
+.manageCategoryFrom
+{
+	width: 500px;
+	margin: 0px auto;
+	padding: 20px;
+}
+
+.manageCategoryFrom .form-title
+{
+	font-size: 16px;
+	font-weight: bold;
+}
+
+#setting-tab li
+{
+	background-color: indogo;
+	color:#ffffff;
+}
+
+table {
+  border-collapse: separate;
+  border-spacing: 0px 0;
+}
+
+td {
+  padding: 0px 0;
+  word-spacing: 10px;
+}
