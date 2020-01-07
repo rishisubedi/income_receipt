@@ -11,4 +11,4 @@ Install composer in the local machine https://getcomposer.org/Composer-Setup.exe
 
 After installing the composer, do the following
 
-php artisan serve on the directory where you clone the project.
+Type **php artisan serve**in the terminal on the directory where you clone the project.
