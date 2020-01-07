@@ -5,10 +5,12 @@ web developing skills.
 
 To set up in the local machine, follow the following step
 
+**Clone the project first**
+
 Install Xampp in the local machine https://www.apachefriends.org/download.html
 
 Install composer in the local machine https://getcomposer.org/Composer-Setup.exe
 
 After installing the composer, do the following
 
-Type **php artisan serve**in the terminal on the directory where you clone the project.
+Type **php artisan serve **in the terminal on the directory where you clone the project.
