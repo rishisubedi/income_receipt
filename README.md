@@ -1,4 +1,4 @@
-# income_receipt
+# income receipt
 
 This project is simple application built entirely in the Laravel- PHP framework. It is simple billing testing system which is built entirely to brush up my 
 web developing skills.
